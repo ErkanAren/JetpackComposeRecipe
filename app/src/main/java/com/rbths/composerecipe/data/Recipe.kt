@@ -24,7 +24,7 @@ val strawberryCake = Recipe(
     cookingTime = "50 min",
     energy = "620 kcal",
     rating = "4,9",
-    description = "This dessert is very tasty and not difficult to prepare. Also, you can replace strawberries with any other berry you like.",
+    description = "This dessert is very tasty and very easy to prepare. Also, you can replace strawberries with any other berry you like.",
     reviews = "84 photos     430 comments",
     ingredients = listOf(
         Ingredient(R.drawable.flour, "Flour", "450 g"),
@@ -32,7 +32,7 @@ val strawberryCake = Recipe(
         Ingredient(R.drawable.juice, "Lemon juice", "150 g"),
         Ingredient(R.drawable.strawberry, "Strawberry", "200 g"),
         Ingredient(R.drawable.suggar, "Sugar", "1 cup"),
-        Ingredient(R.drawable.mind, "Mind", "20 g"),
+        Ingredient(R.drawable.mint, "Mint", "20 g"),
         Ingredient(R.drawable.vanilla, "Vanilla", "1/2 teaspoon"),
     )
 )
